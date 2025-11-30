@@ -28,8 +28,8 @@ dist/
 build/
 .cache/
 
-# Uploaded Video Files
-uploads/
+# # Uploaded Video Files
+# uploads/
 
 # Temporary files
 *.tmp
