@@ -1,4 +1,4 @@
-✨ Professional README.md (Copy & Paste)
+
 # 🎬 Reels Backend API (Node.js + Express)
 
 This project provides a backend API for uploading, viewing, and deleting short-form reel videos (like Instagram Reels / YouTube Shorts / TikTok).  
@@ -95,25 +95,9 @@ MIT License
 
 Sahil Gite
 📍 India
-💼 MCA Student | Backend Developer Intern
+💼 MCA Student
 🔗 GitHub: https://github.com/sahilgite1023
 
-⭐ Support
-
-If you like this project, give it a star ⭐ on GitHub!
 
 
----
 
-# 🎉 README Completed!
-Would you like:
-- A **project demo video script**?
-- **MongoDB version** for storing reel details?
-- **Authentication (JWT)** to secure upload/delete?
-
-Reply:
-1️⃣ Demo Script  
-2️⃣ MongoDB version  
-3️⃣ Auth (JWT)  
-4️⃣ All  
-Which one next? 🚀
